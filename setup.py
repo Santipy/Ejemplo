@@ -7,6 +7,6 @@ setup(
     description = "Este paquete nos permite validar errores de tipo tinyInt",
     author = "Santiago Pérez",
     author_email = "zan_0301@hotmail.com",
-    url = "",
+    url = "https://github.com/Santipy/Ejemplo.git",
     keyword = ["error","int","tinyInt"]
 )
