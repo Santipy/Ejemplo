@@ -1,2 +1,1 @@
-# Ejemplo
-Repositorio para código facilito.
+#Paquete para validar errores
